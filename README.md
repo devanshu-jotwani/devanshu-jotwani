@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devanshu Jotwani
 - 👀 I’m interested in Web Development, Software Developement, Database Management
 - 🌱 I’m a Computer Engineering
-- 💞️ I’m looking to collaborate on projects related to python, reactjs, nodejs and many more
+- 💞️ I’m looking to collaborate on projects related to Python, Reactjs, Nodejs and many more
 - 📫 Reach me out on LinkedIn (Devanshu Jotwani)
 
 <!---
